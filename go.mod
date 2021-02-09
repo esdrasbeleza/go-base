@@ -1,5 +1,5 @@
 module github.com/esdrasbeleza/go-base
 
-go 1.13.4
+go 1.15
 
-require github.com/stretchr/testify v1.5.1
+require github.com/stretchr/testify v1.7.0
